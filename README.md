@@ -39,4 +39,4 @@ Because the data is received from the server almost instantly, it is hard to not
 One way of testing is to adjust following setting of the device the app is installed on:
 Settings -> Developer -> Network Link Conditioner -> Choose 'Edge' -> Set 'Enable' to ON position
 
->Attribition: Logo used in app icon made by Freepik: www.flaticon.com
+>Attribution: Logo used in app icon made by Freepik: www.flaticon.com
